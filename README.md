@@ -1,29 +1,19 @@
-# README #
+# Koksownik
+Simple SMS app with message encoding by password.<br />
 
-This README would normally document whatever steps are necessary to get your application up and running.
+## Info
+SMS messages are encoded with a password provided by the user. Encoding algorithm guarantees that all characters will be visible ASCII characters. Passwords are not stored so using wrong one to open conversation still causes decoding but the result is other than original.
 
-### What is this repository for? ###
+## Screenshot
+![Screenshot1](./screen1.png)<br />
+![Screenshot2](./screen2.png)<br />
+![Screenshot3]
+When wrong password entered<br />
+(./screen3.png)<br />
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+# Credits
+The Apache Software Foundation - for Apache Commons IO jar library - licensed under Apache License, Version 2.0<br />
+Google - for Material design icons - licensed under Apache License, Version 2.0<br />
 
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+# License
+EncSMS is licensed under Apache License 2.0 (see [LICENSE](./LICENSE)) and uses third party libraries that are distributed under their own terms (see [LICENSE-3RD-PARTY.txt](./LICENSE-3RD-PARTY.txt))
