@@ -1,4 +1,4 @@
-# Koksownik
+# EncSMS
 Simple SMS app with message encoding by password.<br />
 
 ## Info
