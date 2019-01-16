@@ -6,10 +6,9 @@ SMS messages are encoded with a password provided by the user. Encoding algorith
 
 ## Screenshot
 ![Screenshot1](./screen1.png)<br />
-![Screenshot2](./screen2.png)<br />
-![Screenshot3]
+![Screenshot2](./screen2.png)<br /><br />
 When wrong password entered<br />
-(./screen3.png)<br />
+![Screenshot3](./screen3.png)<br />
 
 # Credits
 The Apache Software Foundation - for Apache Commons IO jar library - licensed under Apache License, Version 2.0<br />
