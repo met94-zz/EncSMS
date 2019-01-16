@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="generalPreferences">GENERAL</string>
+    <string name="appearancePreferences">APPEARANCE</string>
+    <string name="generalPreferences_msgheader">Header</string>
+    <string name="generalPreferences_msgheaderKey">MSGHEADER_KEY</string>
+    <string name="generalPreferences_msgheaderDef">JOP</string>
+    <string name="generalPreferences_msgheaderSummary">Message header used to identify encrypted messages</string>
+    <string name="generalPreferences_defaultapp">Use default app</string>
+    <string name="generalPreferences_defaultappKey">DEFAULTAPP_KEY</string>
+    <string name="generalPreferences_defaultappSummary">If checked, default SMS app is used to send messages</string>
+    <string name="generalPreferences_themeKey">THEME_KEY</string>
+    <string name="generalPreferences_themeLight">Light theme</string>
+    <string name="generalPreferences_themeDark">Dark theme</string>
+    <string name="generalPreferences_themeRefresh">Apply</string>
+    <string name="generalPreferences_themeRefreshKey">REFRESH_THEME_KEY</string>
+    <string name="generalPreferences_securityKeyKey">SECURITY_KEY_KEY</string>
+</resources>

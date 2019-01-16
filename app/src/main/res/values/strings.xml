@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">EncSMS</string>
+    <string name="preferencesFragmentTag">preferencesFragmentTag</string>
+    <string name="new_msg">New message</string>
+    <string name="refresh">Refresh</string>
+    <string name="action_settings">Settings</string>
+    <string name="send">Send</string>
+    <string name="plus">+</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="dialog_phone_hint">+1</string>
+    <string name="dialog_phone_label">Enter phone number or pick contact</string>
+    <string name="dialog_phone_tag">phoneDialog</string>
+    <string name="dialog_phone_pick">PICK CONTACT</string>
+    <string name="dialog_pass_enter">Enter password</string>
+    <string name="dialog_pass_tag">passDialog</string>
+    <string name="dialog_pass_label">Hint: the longer and complicated your password is, the safer you are.</string>
+    <string name="dialog_pass_editboxHint">[A-Z][a-z][0-9][!@#$%^&amp;*()-_=+;,./&#60;&#62;?:|]</string>
+    <string name="dialog_pass_strongHint1">Use lower case letters.</string>
+    <string name="dialog_pass_strongHint2">Use upper case letters.</string>
+    <string name="dialog_pass_strongHint3">Use digits.</string>
+    <string name="dialog_pass_strongHint4">Use special characters.</string>
+    <string name="dialog_pass_strongHint5">Your password should be longer.</string>
+    <string name="dialog_pass_strong1">Password strength: Strong</string>
+    <string name="dialog_pass_strong2">Password strength: Medium</string>
+    <string name="dialog_pass_strong3">Password strength: Weak</string>
+    <string name="dialog_pass_strong4">Password strength: Very weak</string>
+    <string name="dialog_pass_strong5">Password strength: None</string>
+    <string name="dialog_key_hint">Enter your license key:</string>
+    <string name="dialog_key_editboxHint">XXXXX-XXXXX-XXXXX-XXXXX</string>
+    <string name="dialog_key_tag">securitykeyDialog</string>
+    <string name="dialog_key_license_ver">License verification</string>
+    <string name="dialog_eula_tip">BY ENTERING LICENSE KEY YOU CONSENT TO BE BOUND BY THE TERMS AND CONDITIONS OF EULA</string>
+    <string name="dialog_eula_open">Click to show EULA</string>
+    <string name="dialog_eula_agree">I agree to EULA</string>
+    <string name="dialog_missing_permsTitle">Missing permissions</string>
+    <string name="dialog_missing_perms">Application is missing required permissions</string>
+</resources>

@@ -1,0 +1,31 @@
+<PreferenceScreen
+xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="@string/generalPreferences">
+
+        <EditTextPreference
+            android:defaultValue="@string/generalPreferences_msgheaderDef"
+            android:key="@string/generalPreferences_msgheaderKey"
+            android:singleLine="true"
+            android:summary="@string/generalPreferences_msgheaderSummary"
+            android:title="@string/generalPreferences_msgheader" />
+
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="@string/generalPreferences_defaultappKey"
+            android:summary="@string/generalPreferences_defaultappSummary"
+            android:title="@string/generalPreferences_defaultapp" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/appearancePreferences">
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="@string/generalPreferences_themeKey"
+            android:title="@string/generalPreferences_themeDark" />
+        <zls.mutek.encsms.ButtonPreference android:layout="@layout/preferences_button"
+            android:key="@string/generalPreferences_themeRefreshKey" />
+    </PreferenceCategory>
+</PreferenceScreen>

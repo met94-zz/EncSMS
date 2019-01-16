@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">EncSMS</string>
+    <string name="preferencesFragmentTag">preferencesFragmentTag</string>
+    <string name="new_msg">Nowa wiadomość</string>
+    <string name="refresh">Odśwież</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="send">Wyślij</string>
+    <string name="plus">+</string>
+    <string name="cancel">Anuluj</string>
+    <string name="ok">OK</string>
+    <string name="dialog_phone_hint">+48</string>
+    <string name="dialog_phone_label">Wpisz numer telefonu lub wybierz kontakt</string>
+    <string name="dialog_phone_tag">phoneDialog</string>
+    <string name="dialog_phone_pick">WYBIERZ KONTAKT</string>
+    <string name="dialog_pass_enter">Wprowadź hasło</string>
+    <string name="dialog_pass_tag">passDialog</string>
+    <string name="dialog_pass_label">Wskazówka: im dłuższe i bardziej skomplikowane jest twoje hasło, tym jesteś bezpieczniejszy.</string>
+    <string name="dialog_pass_editboxHint">[A-Z][a-z][0-9][!@#$%^&amp;*()-_=+;,./&#60;&#62;?:|]</string>
+    <string name="dialog_pass_strongHint1">Użyj małych liter.</string>
+    <string name="dialog_pass_strongHint2">Użyj dużych liter.</string>
+    <string name="dialog_pass_strongHint3">Użyj cyfr.</string>
+    <string name="dialog_pass_strongHint4">Użyj znaków specjalnych.</string>
+    <string name="dialog_pass_strongHint5">Twoje hasło powinno być dłuższe.</string>
+    <string name="dialog_pass_strong1">Siła hasła: Mocne</string>
+    <string name="dialog_pass_strong2">Siła hasła: Średnie</string>
+    <string name="dialog_pass_strong3">Siła hasła: Słabe</string>
+    <string name="dialog_pass_strong4">Siła hasła: Bardzo słabe</string>
+    <string name="dialog_pass_strong5">Siła hasła: Żadna</string>
+    <string name="dialog_key_hint">Wprowadź swój klucz licencyjny:</string>
+    <string name="dialog_key_editboxHint">XXXXX-XXXXX-XXXXX-XXXXX</string>
+    <string name="dialog_key_tag">securitykeyDialog</string>
+    <string name="dialog_key_license_ver">Weryfikacja licencji</string>
+    <string name="dialog_eula_tip">POPRZEZ WPROWADZENIE KLUCZA LICENCUJĄCEGO ZGADASZ SIĘ BYĆ ZOBOWIĄZANY WARUNKAMI UMOWY EULA</string>
+    <string name="dialog_eula_open">Kliknij, aby pokazać EULA</string>
+    <string name="dialog_eula_agree">Zgadzam się na EULA</string>
+    <string name="dialog_missing_permsTitle">Błąd uprawnień</string>
+    <string name="dialog_missing_perms">Aplikacja nie posiada wymaganych uprawnień</string>
+</resources>
